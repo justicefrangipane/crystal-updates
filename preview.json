@@ -5,9 +5,12 @@
   "releases": [
     {
       "platform": "windows",
-      "architectures": ["x64", "arm64"],
-      "build": 48,
-      "release_url": "https://github.com/justicefrangipane/crystal/releases/tag/build-48"
+      "architectures": [
+        "x64",
+        "arm64"
+      ],
+      "build": 59,
+      "release_url": "https://github.com/justicefrangipane/crystal/releases/tag/build-59"
     }
   ]
 }
