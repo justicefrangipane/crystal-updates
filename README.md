@@ -1,15 +1,15 @@
 # Crystal preview updates
 
-**Newest manual test release: [Build 63](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-63)** — Prism pairing eye, Home 120 FPS, and matching source and build instructions. The automatic update feed remains Build 61. Build 63 is not yet installed on ASUS; physical camera and Surface 120 FPS acceptance are pending.
+**Current preview: [Build 63](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-63)** — Prism pairing eye and Home 120 FPS. Now offered inside Crystal for x64 and ARM64. Installed on ASUS; physical QR camera and sustained Surface 120 FPS tests remain pending. [Details](BUILD-63-UPDATE.md).
 
 
 
 
-**Current preview:** [Crystal Build 61](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-61) adds display recovery safeguards. The user confirmed screen fit and Cintiq restoration after disconnecting. Build 61 is now offered in Crystal. [Details and remaining tests](BUILD-61-UPDATE.md).
+**Previous preview:** Build 61 introduced display recovery safeguards, with screen fit and Cintiq return confirmed by the user. Those safeguards are unchanged in Build 63. [Earlier evidence](BUILD-61-UPDATE.md).
 
 
 
-[Download Crystal Build 61 for Windows](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-61).
+[Download Crystal Build 63 for Windows](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-63).
 
 
 
@@ -17,11 +17,11 @@ This public repository hosts the update feed, preview installers and matching re
 
 
 
-Download `Crystal-Build-61-Setup.zip`, extract it, and run the EXE. Build 61 adds display recovery safeguards and retains service recovery and direct downloads with progress from Build 60. Earlier versions can install this preview manually.
+In Crystal, choose Check for updates, then download Build 63 with progress. For manual installation, download `Crystal-Build-63-Setup.zip`, extract it, and run the EXE. Setup selects x64 or ARM64 and preserves saved devices, approvals and access choices.
 
 
 
-Source is provided in the specifically named `Crystal-Build-61-Source.zip` release asset, with its baseline, patches, build instructions and upstream notices. GitHub's automatic source archives contain only this distribution repository. Retain all applicable upstream license notices.
+Source is provided in the specifically named `Crystal-Build-63-Source.zip` release asset, with its baseline, patches, build instructions and upstream notices. GitHub's automatic source archives contain only this distribution repository. Retain all applicable upstream license notices.
 
 
 
