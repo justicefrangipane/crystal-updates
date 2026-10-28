@@ -1,5 +1,7 @@
 # Crystal preview updates
 
+**New test release:** [Crystal Build 61](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-61) adds display recovery safeguards. [Details](BUILD-61-UPDATE.md). It is installed on ASUS; physical reconnect acceptance is pending. Download manually for this test. The automatic-update feed remains Build 60.
+
 [Download Crystal Build 60 for Windows](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-60).
 
 This public repository hosts the update feed, preview installers and matching release source. No GitHub account is required to download them. Crystal selects native x64 or ARM64 during installation.
