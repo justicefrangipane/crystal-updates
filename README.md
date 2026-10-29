@@ -1,13 +1,15 @@
-# Crystal preview updates
+# Crystal preview downloads
 
-**Current Windows preview: [Build 64](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-64)** — compact pairing QR, one shared-computer approval, model/name tiles, touch routing and display recovery. [Release details](BUILD-64-UPDATE.md).
+**Current preview: [Build 65](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-65)** — automatic update checks when Crystal opens or is restored.
 
-Download the EXE or ZIP from the release, or use Check for updates in Crystal on the Surface. No GitHub sign-in is required. Setup selects the native x64 or ARM64 viewing app and preserves saved approvals.
+[Download for Windows](https://github.com/justicefrangipane/crystal-updates/releases/download/build-65/Crystal-Build-65-Setup.exe) · [Installer ZIP](https://github.com/justicefrangipane/crystal-updates/releases/download/build-65/Crystal-Build-65-Setup.zip) · [Release notes](BUILD-65-UPDATE.md)
 
-Windows 11 ARM uses an x64 desktop-sharing component in this preview; the viewing app, transport and recovery guard remain native ARM64. Incoming ARM sharing needs physical validation. Apple compact QR scans require Bassem's corresponding update; existing approved connections remain valid.
+No GitHub sign-in is required. Setup automatically selects the x64 or ARM64 viewing app and preserves saved computer approvals.
 
-Use the specifically named `Crystal-Build-64-Source.zip` for matching application source and build instructions; GitHub's automatic source ZIP contains only this distribution repository. Preserve upstream license notices.
+**This is a development preview. Email registration, timed free trials and purchases are not enabled.** It is not the finished trial installer.
 
-`preview.json` is schema 1 and includes the exact installer URL, byte length and SHA-256. Promotion occurs after anonymous asset verification. Crystal contains no GitHub account token. This is an unsigned development preview; public downloads do not publish device identities, approvals or desktop content.
+On Windows 11 ARM, the viewer and transport are native ARM64; the incoming desktop engine uses x64 compatibility and requires physical validation. This installer does not update Apple apps. The optional protected Artist Pad touch helper still requires local approval.
 
-[Previous Build 63](BUILD-63-UPDATE.md) · [Build 61 recovery evidence](BUILD-61-UPDATE.md)
+Use `Crystal-Build-65-Source.zip` from the release for matching application source and notices; the automatic GitHub source ZIP is only this distribution repository. Downloads are unsigned previews. `preview.json` offers only anonymously verified installer assets.
+
+[Build 64 pairing and recovery](BUILD-64-UPDATE.md) · [Build 63](BUILD-63-UPDATE.md)
