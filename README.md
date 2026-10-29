@@ -1,33 +1,13 @@
 # Crystal preview updates
 
-**Current preview: [Build 63](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-63)** — Prism pairing eye and Home 120 FPS. Now offered inside Crystal for x64 and ARM64. Installed on ASUS; physical QR camera and sustained Surface 120 FPS tests remain pending. [Details](BUILD-63-UPDATE.md).
+**Current Windows preview: [Build 64](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-64)** — compact pairing QR, one shared-computer approval, model/name tiles, touch routing and display recovery. [Release details](BUILD-64-UPDATE.md).
 
+Download the EXE or ZIP from the release, or use Check for updates in Crystal on the Surface. No GitHub sign-in is required. Setup selects the native x64 or ARM64 viewing app and preserves saved approvals.
 
+Windows 11 ARM uses an x64 desktop-sharing component in this preview; the viewing app, transport and recovery guard remain native ARM64. Incoming ARM sharing needs physical validation. Apple compact QR scans require Bassem's corresponding update; existing approved connections remain valid.
 
+Use the specifically named `Crystal-Build-64-Source.zip` for matching application source and build instructions; GitHub's automatic source ZIP contains only this distribution repository. Preserve upstream license notices.
 
-**Previous preview:** Build 61 introduced display recovery safeguards, with screen fit and Cintiq return confirmed by the user. Those safeguards are unchanged in Build 63. [Earlier evidence](BUILD-61-UPDATE.md).
+`preview.json` is schema 1 and includes the exact installer URL, byte length and SHA-256. Promotion occurs after anonymous asset verification. Crystal contains no GitHub account token. This is an unsigned development preview; public downloads do not publish device identities, approvals or desktop content.
 
-
-
-[Download Crystal Build 63 for Windows](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-63).
-
-
-
-This public repository hosts the update feed, preview installers and matching release source. No GitHub account is required to download them. Crystal selects native x64 or ARM64 during installation.
-
-
-
-In Crystal, choose Check for updates, then download Build 63 with progress. For manual installation, download `Crystal-Build-63-Setup.zip`, extract it, and run the EXE. Setup selects x64 or ARM64 and preserves saved devices, approvals and access choices.
-
-
-
-Source is provided in the specifically named `Crystal-Build-63-Source.zip` release asset, with its baseline, patches, build instructions and upstream notices. GitHub's automatic source archives contain only this distribution repository. Retain all applicable upstream license notices.
-
-
-
-`preview.json` remains schema 1. Newer clients also read the exact installer URL, byte length and SHA-256. The feed is updated only after release assets are verified. Crystal never contains a GitHub account token.
-
-
-
-Development prerelease. Device approval is still required for remote access; making downloads public does not publish device keys, approvals or desktops.
-
+[Previous Build 63](BUILD-63-UPDATE.md) · [Build 61 recovery evidence](BUILD-61-UPDATE.md)
