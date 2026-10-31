@@ -9,12 +9,12 @@
         "x64",
         "arm64"
       ],
-      "build": 68,
-      "release_url": "https://github.com/justicefrangipane/crystal/releases/tag/build-68",
+      "build": 69,
+      "release_url": "https://github.com/justicefrangipane/crystal/releases/tag/build-69",
       "download": {
-        "url": "https://github.com/justicefrangipane/crystal-updates/releases/download/build-68/Crystal-Build-68-Setup.exe",
-        "sha256": "f806eed4a3ba5538a11a49ae701e05b7f45da60081a7b0d1ab86944f05677f1d",
-        "size": 169378816
+        "url": "https://github.com/justicefrangipane/crystal-updates/releases/download/build-69/Crystal-Build-69-Setup.exe",
+        "sha256": "1e1de3f2732efce653db014f5d18ceb12681d3b7880a5a3e0b89e2af5ee3ef27",
+        "size": 169488384
       }
     }
   ]
