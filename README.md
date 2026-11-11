@@ -1,11 +1,11 @@
 # Crystal Windows preview
 
-[Download Build 86](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-86)
+[Download Build 87](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-87)
 
 
-- Moved “Use another computer” directly below “This computer” so the connection button stays visible in shorter desktop windows.
-- Renamed “Approved devices” to “Devices that can access this computer” and moved that section below the computers you can use.
-- Added permanent developer access for administrator-approved, verified accounts. Sign in with the same account on your personal devices; no trial countdown applies.
-- Developer access refreshes automatically and supports up to seven days offline after a successful refresh. Account shows “Developer access · No trial expiry.”
-- Normal three-day and seven-day customer trials are unchanged. Device pairing and approval are still required.
-- Apple apps need matching account support to recognize developer access. The Windows installer does not update the Apple app.
+- Added “Install automatically after download.” Your choice is remembered; setup starts once the download is verified.
+- Updates now begin installation directly from Crystal, without asking you to click Install again in the setup window.
+- Fixed the “invalid command line” error when enabling ViGEm controller support.
+- Controller setup now gives clearer guidance when another installation is running or Windows reports a setup error.
+- Installing briefly disconnects Crystal and reopens it afterward. Windows may still ask for approval.
+- Automatic installation is optional and off by default. Microsoft Store editions continue to use Store updates.
