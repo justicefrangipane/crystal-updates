@@ -1,9 +1,10 @@
 # Crystal Windows preview
 
-[Download Build 88](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-88)
+[Download Build 89](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-89)
 
 
-- Approved devices now expands downward into compact rows, keeping each device and its options easy to see.
-- A New badge appears when a device is approved and stays until you open the list, even after restarting Crystal.
-- Advanced touch is now in this computer's three-dot options menu, with the same one-time Windows approval.
+- Ten playful messages rotate while your desktop connection starts, with connection progress still visible.
+- The loading screen now reminds you to hold the Escape key for 2 seconds to exit.
+- Crystal remembers when you hide your pairing code, including after restarting the app or refreshing the code.
+- Click anywhere in the pairing-code rectangle to show a hidden code.
 - Installing briefly closes Crystal and reopens it afterward. Your saved computers and settings are kept.
