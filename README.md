@@ -1,11 +1,13 @@
 # Crystal Windows preview
 
-[Download Build 90](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-90)
+[Download Build 91](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-91)
 
 
-- Open camera from Link a computer to scan another computer’s Crystal pairing code. Choose the front or rear camera when available.
-- Scanning or pasting a pairing link requests the connection automatically. Approve it on the computer being shared.
-- Pairing codes, update history and other dialogs fit smaller windows, with scrolling where needed and closing controls kept visible.
-- The approved-device list is now labeled “Devices allowed on this computer.”
-- Camera images stay on your device and are not recorded or uploaded.
-- Installing briefly closes Crystal and reopens it afterward. Your saved computers and settings are kept.
+- Choose an active display when a computer has multiple screens. Remember the choice on this device, or change it using the arrow beside Use.
+- If your saved display is disconnected, Crystal asks you to choose again. The existing screen-matching option remains available.
+- Updates install directly from Crystal, keep your saved access and startup choices, and reopen the app without repeating first-time setup.
+- While streaming, tap the Windows key to open the connected computer’s Start menu. Hold it for one second to open this computer’s Start menu.
+- Connection tips alternate between the Windows-key shortcut and holding Escape for two seconds to exit.
+- Install Build 91 on both Windows computers to use display selection. The iPhone/iPad display chooser needs a separate Apple update.
+- Physical-display selection uses active screens and keeps the computer’s display layout. Screens intentionally turned off are not enabled.
+- This preview is ready for Surface testing; real Surface multi-display acceptance is still pending.
