@@ -1,9 +1,10 @@
 # Crystal Windows preview
 
-[Download Build 92](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-92)
+[Download Build 93](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-93)
 
 
-- Pairing codes renew automatically even while another device is connected.
-- A new device can request approval while an existing connection stays open. Only one device can stream the desktop at a time.
-- The eye-button hint appears below the pairing code so it cannot cover the scan area.
-- A code you hide stays hidden until you choose to show it. Your saved computers and approvals are kept.
+- A compatible iPad build can open Tablet Pro Radial directly with Apple Pencil Pro squeeze, without sending a keyboard shortcut or moving your pointer.
+- Support for separately negotiated Pencil barrel rotation from compatible clients.
+- Low-memory notices show available memory and the largest visible app to help explain a slow stream.
+- Screen capture starts when frames are needed, with clearer capture status on the shared computer.
+- Pencil squeeze requires the matching iPad Crystal update and Tablet Pro Radial 0.3.34 or later. Physical Pencil acceptance is still being tested.
