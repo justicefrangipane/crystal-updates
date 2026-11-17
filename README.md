@@ -1,10 +1,8 @@
 # Crystal Windows preview
 
-[Download Build 93](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-93)
+[Download Build 94](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-94)
 
 
-- A compatible iPad build can open Tablet Pro Radial directly with Apple Pencil Pro squeeze, without sending a keyboard shortcut or moving your pointer.
-- Support for separately negotiated Pencil barrel rotation from compatible clients.
-- Low-memory notices show available memory and the largest visible app to help explain a slow stream.
-- Screen capture starts when frames are needed, with clearer capture status on the shared computer.
-- Pencil squeeze requires the matching iPad Crystal update and Tablet Pro Radial 0.3.34 or later. Physical Pencil acceptance is still being tested.
+- Support for Apple Pencil Pro quick squeeze as the Radial pen button, and a half-second hold to switch between docked and radial mode.
+- A completed hold cannot trigger another action on release or switch modes twice when a request is retried.
+- Requires the matching upcoming iPad Crystal build and Tablet Pro Radial 0.3.35 or later. Physical Pencil testing follows the iPad update.
