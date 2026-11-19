@@ -1,12 +1,10 @@
 # Crystal Windows preview
 
-[Download Build 95](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-95)
+[Download Build 96](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-96)
 
 
-- Share an issue, an idea or anything else on your mind from a compact feedback panel beside your computers. In smaller windows, the panel moves below them.
-- A warmer prompt invites useful detail. Rating stays a small link so feedback remains the focus.
-- Get confirmation when your note is received. If a send fails, your note stays available to retry or send by email.
-- Clearer connection progress distinguishes checking, opening and streaming from the route being used.
-- Updated relay handling improves connection recovery.
+- A visible sending indicator shows when your feedback is on its way.
+- A checkmark and “Note sent. Thank you!” confirm receipt and stay visible until you choose Send another note.
+- If delivery cannot be confirmed, your note stays in place with a clear Try again option.
 
-Windows x64 and ARM64 preview. Saved connections and setup choices are preserved. Physical iPad relay and network-change testing remains pending; this release does not claim that every connection problem is resolved.
+Windows x64 and ARM64 preview. Saved connections and setup choices are preserved.
