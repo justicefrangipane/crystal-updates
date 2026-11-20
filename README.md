@@ -1,12 +1,13 @@
 # Crystal Windows preview
 
-[Download Build 97](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-97)
+[Download Build 98](https://github.com/justicefrangipane/crystal-updates/releases/tag/build-98)
 
 
-- Open Connection health from the floating Crystal menu to see likely causes of lag and practical suggestions.
-- Automatic notices flag sustained network delay, missing video frames, slow video processing and low memory.
-- Memory guidance identifies the affected device and the largest reported app when available.
-- Diagnostics show when readings are missing or outdated. Home internet and mobile data are not blamed without separate evidence.
-- Health checks run locally even when sharing diagnostics is off. Quality settings stay under your control.
+- Pinch to zoom and drag with two fingers to pan while Zoom mode is on.
+- Double-tap with two fingers to switch between Fit and 150%, or choose Fit to reset the view.
+- The wider Crystal menu puts connection health first, with a likely cause and a suggested next step.
+- Find Touch + stylus, Display, Files and other controls in organized parent and child menus.
+- Green, orange and red indicators show stream health. Gray means Crystal is still checking.
+- Hover over the floating Crystal icon for stats, or choose Pin stats to keep them visible.
 
-Windows x64 and ARM64 preview. Saved connections and setup choices are preserved. iPhone/iPad integration requires a separate Apple update.
+Windows x64 and ARM64 preview. Zoom starts off for each new stream. Saved connections and setup choices are preserved. Physical Surface gesture testing is pending; iPhone/iPad integration requires a separate Apple update.
